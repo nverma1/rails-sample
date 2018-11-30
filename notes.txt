@@ -1,0 +1,34 @@
+Rails cheatsheet:
+http://www.pragtob.info/rails-beginner-cheatsheet/
+Install
+Gemfile - what it is, what it does
+Tests - you don't need it
+Vendor - don't need it - holds third party code
+Bundle install - what it does
+
+MVC paradigm - user hits controllers, controllers modify models, models dictate what shows up in the views, views are FE that gets sent back to user
+
+Controller -> View
+Routes.rb - show example
+https://guides.rubyonrails.org/routing.html
+Resources: 
+
+Models: index, new, edit, show
+belongs_to, has_many
+
+ApplicationRecord
+https://blog.bigbinary.com/2015/12/28/application-record-in-rails-5.html
+
+Routes
+https://guides.rubyonrails.org/routing.html
+
+Helpers:
+https://apidock.com/rails/ActionView/Helpers/FormHelper/form_for
+
+Rails db:migrate - what it does - migrations
+https://edgeguides.rubyonrails.org/active_record_migrations.html
+
+MVC:
+https://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488
+
+Code:
